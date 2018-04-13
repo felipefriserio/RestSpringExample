@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rest.spring.example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: logonrm
+Implementation-Vendor-Id: fiap.scj
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/rest.spring.example
+Created-By: Maven Integration for Eclipse
+
